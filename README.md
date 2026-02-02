@@ -1,9 +1,11 @@
-# 👋 Hello, World!
+# Hello, World! 👋
 
-I'm a *Software Engineer* from *Astana, Kazakhstan*.
+I'm a Software Engineer from *Astana, Kazakhstan*.
 
-## ⚙️ Technologies I Work With:
+- 🔭 I'm currently working on `Telegram-Bot`
+- 🌱 I'm currently learning `Three.js`
+- 📫 How to reach me: `nurlankh888@gmail.com`
 
-- Operating system: *Windows*;
-- Integrated Development Environment: *VS Code*;
-- Languages (from first to last): *C++, Python, C#, HTML + CSS + Javascript, Dart, Java, Assembly (Microcontrollers), Markdown*.
+---
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,cs,html,css,js,dart,java,arduino,md&theme=dark)](https://skillicons.dev)
